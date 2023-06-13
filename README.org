@@ -1,0 +1,10 @@
+* pithy-xml
+
+Read and print XML library for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/frodef/pithy-xml.git   |
+| commit  | c687f98  |
+| systems | pithy-xml |
+|---------+-------------------------------------------|
+
